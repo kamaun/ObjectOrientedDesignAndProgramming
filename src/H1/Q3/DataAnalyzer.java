@@ -1,10 +1,8 @@
 package H1.Q3;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.util.LinkedList;
-import java.util.Scanner;
+import java.io.*;
+import java.util.*;
+
 
 /**
  * 3

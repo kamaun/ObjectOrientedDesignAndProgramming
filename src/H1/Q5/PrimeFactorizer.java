@@ -1,6 +1,6 @@
 package H1.Q5;
 
-import java.util.ArrayList;
+import java.util.*;
 
 /**
  * Write a program that computes the prime factorization of a positive integer number. The number in question is
